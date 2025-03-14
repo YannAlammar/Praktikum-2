@@ -1,1 +1,2 @@
-# Praktikum-2 Halo reks 
+# Praktikum-2 
+Halo reks 
